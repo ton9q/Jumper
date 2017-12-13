@@ -160,6 +160,7 @@ def main():
         pygame.display.update()
         clock.tick(fps)
 
+# quit()
 
 if __name__ == "__main__":
     main()
